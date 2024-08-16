@@ -1,0 +1,14 @@
+{
+  "name": "solana-ua-bootcamp-2024-08-06",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@solana-developers/helpers": "^2.4.0",
+    "@solana/web3.js": "^1.95.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "esrun": "^3.2.26",
+    "prettier": "^3.3.3"
+  }
+}
